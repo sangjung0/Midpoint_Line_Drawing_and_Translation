@@ -1,5 +1,5 @@
 <div align="center">
-  <h1> MidpointLine & Translation </h1>
+  <h1> MidpointLineDrawing & Translation </h1>
  
 [sangjung0](https://github.com/sangjung0)
 
@@ -12,10 +12,10 @@
   <br>
   <br>
 
-영남대학교 운영체제 스케줄러 과제
+영남대학교 컴퓨터 그래픽스 과제
 
 </div>
 
 ## 개요
 
-스케줄러의 주요 알고리즘 구현을 위한 JAVA 기반 GUI 프로그램
+Midpoint Line Drawing 알고리즘과 Translation 알고리즘 구현.
