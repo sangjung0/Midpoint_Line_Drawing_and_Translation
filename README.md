@@ -5,9 +5,9 @@
 
   <br>
 
-  <a href="https://github.com/sangjung0/Schedular/graphs/contributors">
-    <img src="https://contrib.rocks/image?repo=sangjung0/Schedular" />
-  </a>
+<a href="https://github.com/sangjung0/Midpoint_Line_Drawing_and_Translation/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=sangjung0/Midpoint_Line_Drawing_and_Translation" />
+</a>
 
   <br>
   <br>
